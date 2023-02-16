@@ -17,5 +17,3 @@ Ola! meu nome é Eduardo tenho 18 anos e estou um programador. 🖥️
 
 
 
-
-https://github.com/duu17
