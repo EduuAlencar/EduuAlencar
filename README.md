@@ -21,7 +21,7 @@
     <img align="center" alt="Luan-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />   
   </div>
 
-  
+  <div align = "center">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duu17&layout=compact&langs_count=7&theme=dracula"/>
-                                                                                                                            
+  </div>                                                                                                                          
                                                                                                             
