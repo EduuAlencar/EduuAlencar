@@ -1,16 +1,18 @@
-# Hi, I'm Eduardo Alencar Tiburcio! :D
+# <div align="center">🎉🎉Olá meu nome é *Luan*🎉🎉</div>
 
-[![Github Badge](https://github.com/duu17)
-[![Linkedin Badge](https://www.linkedin.com/in/eduardo-alencar-tiburcio-570533239/)
+<div align="center">Meu nome é Eduardo, tenho 18 anos e sou um programador!!
+<br> 😎</div>
 
-## About me
-Ola! meu nome é Eduardo tenho 18 anos e estou um programador. 🖥️
-
-
-
-
-
-
+ ___
+ 
+<div align="center">
+  <a href="https://github.com/duu17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duu17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
+  <a href = "mailto:edualencar226@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-alencar-tiburcio-570533239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 
