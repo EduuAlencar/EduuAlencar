@@ -1,4 +1,4 @@
-# 🤖🤖Olá meu nome é *Eduardo*🤖🤖</div>
+#<div align="center">🤖🤖Olá meu nome é *Eduardo*🤖🤖</div>
 
 <div align="center">Meu nome é Eduardo Alencar Tiburcio, tenho 18 anos e sou um programador!!
 <br> 😎</div>
