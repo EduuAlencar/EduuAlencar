@@ -21,4 +21,4 @@
   </div>
 
   
-   HTML: <body onload="loading()"> <div id="load"></div>
+
