@@ -23,5 +23,5 @@
   </div>
 
    
-   <img src="![Captura de tela_20230216_152036](https://user-images.githubusercontent.com/102267436/219453984-4a1f1365-f036-4d35-88ea-bc0002f1e284.png)
+   <img src="![Captura de tela_20230216_152036](https://user-images.githubusercontent.com/102267436/219454226-f2624c45-c848-4099-b5e5-1d22bd738829.png)
 ">
